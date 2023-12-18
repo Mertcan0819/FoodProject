@@ -150,4 +150,4 @@ class _SearchContainer extends StatelessWidget {
 
 
 
-//    drawer: const Drawer(shadowColor: Colors.yellow, backgroundColor: Colors.brown, child: Center(child: Text('selfsdfsdf')),),      // sol üst köşeye dünyanın en güzel ve koaly kodla yazılan menü bar getirdi. css de anamiz sikilirdi. içine özellik girebiliyoruz rengini bocshodow vs vs 
+//    drawer: const Drawer(shadowColor: Colors.yellow, backgroundColor: Colors.brown, child: Center(child: Text('selfsdfsdf')),),     
